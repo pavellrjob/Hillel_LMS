@@ -1,0 +1,20 @@
+const itSchool = 'Hillel';
+const age = 123456;
+let number = false;
+
+function logType(val) {
+    alert(`value: ${val};  ${typeof val}`);
+}
+
+logType(itSchool);
+logType(age);
+logType(number);
+
+
+
+// Or second option
+
+// alert(`value: $(itSchool); $(typeof itSchool)`);
+// alert(`value: $(age); $(typeof age)`);
+// alert(`value: $(number); $(typeof number)`);
+
