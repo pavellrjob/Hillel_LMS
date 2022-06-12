@@ -2,6 +2,10 @@ const itSchool = 'Hillel';
 const age = 123456;
 let number = false;
 
+console.log(`value: $(itSchool); $(typeof itSchool)`);
+console.log(`value: $(age); $(typeof age)`);
+console.log(`value: $(number); $(typeof number)`);
+
 function logType(val) {
     alert(`value: ${val};  ${typeof val}`);
 }
