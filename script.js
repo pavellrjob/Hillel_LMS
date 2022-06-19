@@ -21,4 +21,3 @@ logType(number);
 // alert(`value: $(itSchool); $(typeof itSchool)`);
 // alert(`value: $(age); $(typeof age)`);
 // alert(`value: $(number); $(typeof number)`);
-
