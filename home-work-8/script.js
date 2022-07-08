@@ -102,4 +102,4 @@ function logIt () {
     console.log(text);
     var text = 'inside';
 };
-logIt();//inside (объявлена глобальная переменная. При переименовании внутри функции значения сохраняются и за ее пределами)
+logIt();//undefined (переменная объявленная после console.log вызовет undefined)
