@@ -1,0 +1,30 @@
+.one {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.one.red {
+    background-color: red;
+}
+
+.one.yellow {
+    background-color: yellow;
+}
+
+.one.green {
+    background-color: green;
+}
+
+#streetlight {
+    margin-left: 150px;
+    margin-top: 150px;
+    width: 70px;
+    height: 200px;
+    background-color: aqua;
+    padding-top: 10px;
+    border: solid 2px #000;
+    border-radius: 10px;
+}
